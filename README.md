@@ -1,1 +1,2 @@
-# javascript-live2
+# Home work Geek Brains
+# javascript medium / hard
